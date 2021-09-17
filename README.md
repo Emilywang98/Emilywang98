@@ -17,6 +17,8 @@ My name is Emily and I'm currently a MENG Software Engineering student at the Un
 ![](https://img.shields.io/badge/<Code>-<C>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<SQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+# 💻 Projects 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emilywang98&repo=HeartDiseaseClassifier )](https://github.com/Emilywang98/HeartDiseaseClassifier)
 
 
 <!--
