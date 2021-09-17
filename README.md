@@ -3,7 +3,7 @@
 
 ### Hi there!! 👋
 
-My name is Emily and I'm currently a MENG Software Engineering student at the University of Calgary! 
+My name is Emily and I'm currently a MENG Software Engineering student at the University of Calgary! I currently live in Calgary and you can contact me via LinkedIn! [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 <!--
 **Emilywang98/Emilywang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
