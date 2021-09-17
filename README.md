@@ -7,6 +7,8 @@ My name is Emily and I'm currently a MENG Software Engineering student at the Un
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilywang98)](https://github.com/Emilywang98/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emilywang98)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
