@@ -20,6 +20,9 @@ My name is Emily and I'm currently a MENG Software Engineering student at the Un
 # 💻 Projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emilywang98&repo=HeartDiseaseClassifier )](https://github.com/Emilywang98/HeartDiseaseClassifier)
 
+# 💻 Hackathons
+You can view all my Hackathons on [Devpost!](https://devpost.com/Emilywang98?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
 
 <!--
 **Emilywang98/Emilywang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
