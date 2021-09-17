@@ -3,7 +3,11 @@
 
 ### Hi there!! 👋
 
-My name is Emily and I'm currently a MENG Software Engineering student at the University of Calgary! I currently live in Calgary and you can contact me via LinkedIn! [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+My name is Emily and I'm currently a MENG Software Engineering student at the University of Calgary! I currently live in Calgary and you can contact me via [LinkedIn!](https://www.linkedin.com/in/emilywang98/)!
+
+## GITHUB Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 
 <!--
 **Emilywang98/Emilywang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
