@@ -1,15 +1,20 @@
 ![image](https://user-images.githubusercontent.com/68518246/133714240-8861e24c-de70-45ec-bb43-6ad644e2d1d1.png)
  
 
-### Hi there!! 👋
+### 👋 Hi there!! 👋
 
 My name is Emily and I'm currently a MENG Software Engineering student at the University of Calgary! I currently live in Calgary and you can contact me via [LinkedIn!](https://www.linkedin.com/in/emilywang98/)!
 
-## Github Stats
+## 🤓 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilywang98)](https://github.com/Emilywang98/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emilywang98)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## 👩🏻‍💻 Technologies & Skills
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 
 <!--
