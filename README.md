@@ -1,4 +1,5 @@
-[![Header] Emily Wang.png]
+[![Header] (https://raw.githubusercontent.com/Emilywang98/<OWNER>/<OWNER>/EmilyWang.png "Header")
+ 
 
 ### Hi there 👋
 
