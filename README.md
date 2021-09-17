@@ -1,7 +1,9 @@
-![alt text] (https://github.com/[Emilywang98]/[Emilywang98]/[main]/EmilyWang.png?raw=true)
+![image](https://user-images.githubusercontent.com/68518246/133714240-8861e24c-de70-45ec-bb43-6ad644e2d1d1.png)
  
 
-### Hi there 👋
+### Hi there!! 👋
+
+My name is Emily and I'm currently a MENG Software Engineering student at the University of Calgary! 
 
 <!--
 **Emilywang98/Emilywang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
