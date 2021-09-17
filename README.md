@@ -5,8 +5,9 @@
 
 My name is Emily and I'm currently a MENG Software Engineering student at the University of Calgary! I currently live in Calgary and you can contact me via [LinkedIn!](https://www.linkedin.com/in/emilywang98/)!
 
-## GITHUB Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+## Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilywang98)](https://github.com/Emilywang98/github-readme-stats)
+
 
 
 <!--
