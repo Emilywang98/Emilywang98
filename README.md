@@ -1,4 +1,4 @@
-![Header] (https://github.com/[Emilywang98]/[Emilywang98]/[main]/EmilyWang.png?raw=true)
+![alt text] (https://github.com/[Emilywang98]/[Emilywang98]/[main]/EmilyWang.png?raw=true)
  
 
 ### Hi there 👋
