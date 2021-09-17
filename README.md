@@ -1,4 +1,4 @@
-[![Header] (https://raw.githubusercontent.com/Emilywang98/<OWNER>/<OWNER>/EmilyWang.png "Header")
+[![Header] (https://raw.githubusercontent.com/Emilywang98/EmilyWang.png "Header")]
  
 
 ### Hi there 👋
