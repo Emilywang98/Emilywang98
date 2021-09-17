@@ -10,11 +10,13 @@ My name is Emily and I'm currently a MENG Software Engineering student at the Un
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emilywang98)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👩🏻‍💻 Technologies & Skills
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
- https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
- https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
- https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
- https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 <!--
