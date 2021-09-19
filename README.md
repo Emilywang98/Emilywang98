@@ -22,7 +22,7 @@ My name is Emily and I'm a MEng Software Engineering student at the University o
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?repo=xuanfitness/xuanfitness-mobile)](https://github.com/xuanfitness/xuanfitness-mobile) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emilywang98&repo=chem_ecar)](https://github.com/Emilywang98/chem_ecar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emilywang98&repo=piggyfund)](https://github.com/Emilywang98/piggyfund) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emilywang98&repo=Re-Mind)](https://github.com/Emilywang98/Re-Mind) --> -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emilywang98&repo=Re-Mind)](https://github.com/Emilywang98/Re-Mind) -->
 
 
 
