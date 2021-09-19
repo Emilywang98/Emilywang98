@@ -17,12 +17,12 @@ My name is Emily and I'm a MEng Software Engineering student at the University o
 ![](https://img.shields.io/badge/<Code>-<C>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<SQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-# 💻 Projects 
+<!-- # 💻 Projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emilywang98&repo=HeartDiseaseClassifier)](https://github.com/Emilywang98/HeartDiseaseClassifier)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?repo=xuanfitness/xuanfitness-mobile)](https://github.com/xuanfitness/xuanfitness-mobile) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emilywang98&repo=chem_ecar)](https://github.com/Emilywang98/chem_ecar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emilywang98&repo=piggyfund)](https://github.com/Emilywang98/piggyfund)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emilywang98&repo=Re-Mind)](https://github.com/Emilywang98/Re-Mind) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emilywang98&repo=Re-Mind)](https://github.com/Emilywang98/Re-Mind) --> -->
 
 
 
