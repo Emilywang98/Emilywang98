@@ -26,7 +26,7 @@ My name is Emily and I'm a MEng Software Engineering student at the University o
 
 
 
-# 💻 Hackathons
+## 💻 Hackathons
 You can view all my Hackathons on [Devpost!](https://devpost.com/Emilywang98?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 
